@@ -1,6 +1,7 @@
 # kernOS
 
 a kernel operating system
+
 run this in your terminal
 
 nasm -f bin src/boot.asm -o boot.bin
